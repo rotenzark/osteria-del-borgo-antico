@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#1E1712"/>
+  <!-- candle -->
+  <rect x="28" y="34" width="8" height="18" rx="1.5" fill="#F2E7D2"/>
+  <rect x="31" y="28" width="2" height="7" fill="#B07C33"/>
+  <!-- flame -->
+  <path d="M32 12 C 38 20, 40 26, 32 30 C 24 26, 26 20, 32 12 Z" fill="#D9A24E"/>
+  <path d="M32 18 C 35 22, 36 25, 32 28 C 28 25, 29 22, 32 18 Z" fill="#F6E7B0"/>
+  <ellipse cx="32" cy="53" rx="12" ry="3" fill="#B07C33" opacity="0.35"/>
+</svg>
